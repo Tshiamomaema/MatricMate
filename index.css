@@ -62,10 +62,6 @@ button {
         
 }
 
-button:hover {
-    background-color: lightgray;
-    cursor: pointer;
-}
 
 .button-log-in {
         margin-left: 10px;
